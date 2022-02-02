@@ -6,8 +6,8 @@
 
   "repository": "저장소",
   "chooseTheRepository": "giscus가 연결할 저장소를 선택하세요. 정확히 확인하세요.:",
-  "theRepositoryIsPublic": "<strong>저장소가 <a>공개되어 있지만</a></strong>, 방문자들은 discussion을 볼 수 없습니다.",
-  "theGiscusAppIsInstalled": "<strong><a>giscus</a> 앱이 설치되어 있지만</strong>, 방문자들은 댓글과 반응을 남길 수 없습니다.",
+  "theRepositoryIsPublic": "<strong>저장소를 <a>공개하지 않는다면,</a></strong>, 방문자들은 discussion을 볼 수 없습니다.",
+  "theGiscusAppIsInstalled": "<strong><a>giscus</a> 앱이 설치되어 않다면</strong>, 방문자들은 댓글과 반응을 남길 수 없습니다.",
   "theDiscussionsFeatureIsTurnedOn": "<strong>Discussions 기능이</strong> <a>당신의 저장소에서 켜져 있어야 합니다.</a>.",
   "repositoryLabel": "저장소:",
   "myusername/myrepo": "myusername/myrepo",
